@@ -22,6 +22,9 @@
 
 [![Spring Boot App Template](https://github-readme-stats.vercel.app/api/pin/?username=yonatankarp&repo=spring-boot-app-template&show_owner=true)](https://github.com/yonatankarp/spring-boot-app-template)
 
+## My Recent Articles in Medium
+
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=yonatankarp&limit=2)](https://medium.com/@yonatankaro)
 
 **Languages and Tools:**
 
