@@ -24,7 +24,7 @@
 
 ## My Recent Articles in Medium
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=yonatankarp&limit=2)](https://medium.com/@yonatankaro)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=yonatankarp&limit=2)](https://medium.com/@yonatankarp)
 
 **Languages and Tools:**
 
