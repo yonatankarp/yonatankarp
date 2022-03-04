@@ -4,8 +4,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonatankarp/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yonvata/)
-[![Twitter](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://yonatankarp.com/)
-[![Twitter](https://img.shields.io/badge/StackOverflow-ffffff?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/3899765/yonatan-karp-rudin/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://yonatankarp.com/)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-ffffff?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/3899765/yonatan-karp-rudin/)
+[![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yonatankarp)
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=yonatankarp&column=9&theme=gruvbox&no-frame=true"/>
