@@ -23,9 +23,11 @@
 
 [![Spring Boot App Template](https://github-readme-stats.vercel.app/api/pin/?username=yonatankarp&repo=spring-boot-app-template&show_owner=true)](https://github.com/yonatankarp/spring-boot-app-template)
 
-## My Recent Articles in Medium
+## Check Out Recent Articles on Medium
 
-[![Yonatan Karp-Rudin Medium](https://github-readme-medium.vercel.app/?username=yonatankarp&limit=2)](https://medium.com/@yonatankarp)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yonatankarp/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yonatankarp/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yonatankarp/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yonatankarp/0" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yonatankarp/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yonatankarp/0" alt="Recent Article 2"> 
 
 **Languages and Tools:**
 
