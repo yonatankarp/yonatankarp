@@ -13,7 +13,7 @@
 
 ![Yonatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonatankarp&show_icons=true&theme=default&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonatankarp)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonatankarp&hide=SCSS,css,html)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yonatankarp&theme=neon-palenight&hide_border=true)
 
