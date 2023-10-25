@@ -1,12 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=JVM++Senior+Backend+Developer+++++++++++)](https://git.io/typing-svg)
-
-<h2 align="center">Hello there 👋, I'm Yonatan!</h2><BR/>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35F75D&center=true&vCenter=true&multiline=true&random=false&height=60&lines=Senior+JVM+Backend+Developer%2C;Blogger+and+Gamer" alt="Typing SVG" /></a>
+</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonatankarp/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yonvata/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://yonatankarp.com/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-ffffff?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/3899765/yonatan-karp-rudin/)
 [![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yonatankarp)
+
+<h2 align="center">Hello there 👋</h2><BR/>
+
+I'm Yonatan Karp-Rudin, a Computer Science graduate with a passion for coding that started when I was just 15, tinkering with Assembler and C at school.
+While my journey into professional development began later in life, I've been on a continuous learning curve ever since.
+
+Originally from Israel, I made the move to Berlin, Germany, just half a year before the COVID hit.
+
+<h3>About Me:</h3>
+
+- 👨‍🦳 I'm a seasoned software engineer, specializing in backend development and languages that champion OOP or functional programming.
+- 🥑 I'm a staunch advocate for the Kotlin language, especially in the realm of backend development.
+- 💻 My professional toolbox includes C++, C#, Python, Java, and Kotlin.
+- 👨‍💻 I code for fun in my spare time, aiming to do it at least once a week.
+- 🎙 I'm a native Hebrew speaker (🇮🇱), fluent in English (🇺🇸), and have a basic grasp of German (🇩🇪).
+- 🤖 I'm a firm believer in automating everyday tasks, from automated tests to streamlining daily routines.
+
+<h3>What I'm Not</h3>
+
+- 🔻 Low-level programming isn't my cup of tea. Managed memory often outshines manual optimization.
+- 🕸 Frontend development isn't my forte, though I've ventured into it in the past 😅
+
+Beyond the world of code and tech, I'm happily married and the proud owner of two delightful feline companions 🐈🐈‍⬛.
+
 
 <h2>🏆 Github Profile Trophy</h2>
 
