@@ -9,21 +9,18 @@
 [![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yonatankarp)
 
 <h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=yonatankarp&column=9&theme=gruvbox&no-frame=true"/>
 
-![Yonatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonatankarp&show_icons=true&theme=default&count_private=true)
+<p align="center">
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=yonatankarp&column=9&theme=gruvbox&no-frame=true" alt="GitHub Profile Trophy"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonatankarp&hide=SCSS,css,html)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yonatankarp&theme=neon-palenight&hide_border=true)
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonatankarp&hide=SCSS,css,html) | ![Yonatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonatankarp&show_icons=true&theme=default&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yonatankarp&theme=neon-palenight&hide_border=true) |
+|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 
 ## Repos
 
-[![Kotlin Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=yonatankarp&repo=kotlin-design-patterns&show_owner=true)]([https://github.com/yonatankarp/rabbit-hole](https://github.com/yonatankarp/kotlin-design-patterns))
-
-[![Spring Boot App Template](https://github-readme-stats.vercel.app/api/pin/?username=yonatankarp&repo=spring-boot-app-template&show_owner=true)](https://github.com/yonatankarp/spring-boot-app-template)
-
-[![Domain Gateway Demo](https://github-readme-stats.vercel.app/api/pin/?username=yonatankarp&repo=domain-gateway-demo&show_owner=true)](https://github.com/yonatankarp/domain-gateway-demo)
+| [![Kotlin Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=yonatankarp&repo=kotlin-design-patterns&show_owner=true)]([https://github.com/yonatankarp/rabbit-hole](https://github.com/yonatankarp/kotlin-design-patterns)) | [![Spring Boot App Template](https://github-readme-stats.vercel.app/api/pin/?username=yonatankarp&repo=spring-boot-app-template&show_owner=true)](https://github.com/yonatankarp/spring-boot-app-template) | [![Domain Gateway Demo](https://github-readme-stats.vercel.app/api/pin/?username=yonatankarp&repo=domain-gateway-demo&show_owner=true)](https://github.com/yonatankarp/domain-gateway-demo) |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Check Out Recent Articles on Medium
 
